@@ -6,6 +6,7 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.6.0",
+    "elevation-pr": "^2.1.0",
     "express": "^4.17.1",
     "mongoose": "^5.11.9",
     "react": "^17.0.1",
@@ -19,7 +20,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "review": "node node_modules/elevation-pr/index.js"
   },
   "eslintConfig": {
     "extends": [
@@ -38,5 +40,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rubas1/react-bank.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rubas1/react-bank/issues"
+  },
+  "homepage": "https://github.com/rubas1/react-bank#readme"
 }
