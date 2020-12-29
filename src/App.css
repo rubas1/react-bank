@@ -1,0 +1,14 @@
+.main-app {
+  position: relative;
+}
+
+.operations-div {
+  position: absolute;
+  padding-left: 1050px;
+  padding-top: 20px;
+}
+
+.balance {
+  position: absolute;
+  padding-left: 1000px;
+}

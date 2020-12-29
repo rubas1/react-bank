@@ -1,0 +1,5 @@
+.transactions-container {
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: repeat(4, 0.17fr);
+}
